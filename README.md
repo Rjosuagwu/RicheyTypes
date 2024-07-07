@@ -28,7 +28,7 @@ Git and GitHub: For version control and collaboration.</li>
 
 ## Usage
 
-![image](usage2.png)
+![image](RicheyTypes.png)
 
 ## License
 Specify the license under which your project is distributed. For example:
